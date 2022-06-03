@@ -1,0 +1,15 @@
+
+
+.banner .title {
+  font-size: calc(5.21vw + 50px);
+  line-height: 1;
+  background: linear-gradient(to right, #17b3f1, #ebf94f);
+  -webkit-background-clip: text;
+  color: transparent;
+  margin: 60px;
+}
+
+.banner .description {
+  margin: 10px;
+  font-family:"Times New Roman", Times, serif;
+}
